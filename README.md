@@ -9,3 +9,4 @@ The app is capable of logging the user in if they got an account, and allows the
 <img src="https://user-images.githubusercontent.com/61067185/132745378-c5c872f8-b55d-45ed-a59e-3755cf298079.png" width="350" height="700">
 <img src="https://user-images.githubusercontent.com/61067185/132745392-1cb50fff-48f8-47ca-800b-efd3082771ca.png" width="350" height="700">
 
+*** Note: The project uses Firebase's firestore database, the GoogleService-info.plist file is removed from the project's files. To be able to use the application, create a firestore database on Firebase and download the GoogleServices-info file and add it to the project's chatting-application folder.
