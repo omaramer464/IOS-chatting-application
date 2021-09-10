@@ -12,3 +12,5 @@ The app is capable of logging the user in if they got an account, and allows the
 <h1> Note </h1>
 
 The project uses Firebase's firestore database, the GoogleService-info.plist file is removed from the project's files. To be able to use the application, create a firestore database on Firebase and download the GoogleService-info.plist file and add it to the project's root file and make sure to select "create groups" for the added folders pop-up.
+
+This project is not completely done, it is functional but has some missing and uncompleted features. The main reason behind creating this project was to test my ability in creating a replica of WhatsApp with some tweaks.
